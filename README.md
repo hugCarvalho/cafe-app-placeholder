@@ -20,6 +20,8 @@
   * React Router
   * Axios
   * Cypress
+- ![Languages](./src/github-code-statistics.png)
+
 ### 🎨 Features
   - Authentication:
     - Login
