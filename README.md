@@ -2,17 +2,13 @@
 📆 Created in 2024.
 
 🛠 Fullstack app with over 10.000 lines of code. Built with **React**, **Typescript**, **Node.js**, **Supabase**, **Material UI** and **Leaflet**.
-
-### 💬 Description
- Go on a solo ride or connect with a soulmate and build your own Cafes experience! 😃
-
 ### Optimizations Score
 ![image](./src/lighthouse-cafes-app.png)
-
+### 💬 Description
+ Go on a solo ride or connect with a soulmate and build your own Cafes experience! 😃
 ### 📡 APIs Used
   - [nominatim API](https://nominatim.org/)
   - [nominatim openstreetmap](https://nominatim.openstreetmap.org/ui/search.html)
-
 ### ⚙️ Full Tech Stack
 * Main:
   * React
@@ -24,7 +20,6 @@
   * React Router
   * Axios
   * Cypress
-
 ### 🎨 Features
   - Authentication:
     - Login
