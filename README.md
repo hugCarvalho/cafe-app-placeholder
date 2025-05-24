@@ -1,10 +1,10 @@
 ## Cafes & You App
 This is a **placeholder with info for my cafe app private project** since the repo is private. The **code itself can be shown upon request during an interview process**.
-
-🛠 Fullstack app with over 10.000 lines of code. Built with **React**, **Typescript**, **Supabase**, **Material UI** and **Leaflet** created in 2024.
 ### Optimizations Score
 ![image](./src/lighthouse-cafes-app.png)
+
 ### 💬 Description
+ 🛠 Fullstack app with over 10.000 lines of code. Built with **React**, **Typescript**, **Supabase**, **Material UI** and **Leaflet** created in 2024.
  Go on a solo ride or connect with a soulmate and build your own Cafes experience! 😃
 ### 📡 APIs Used
   - [nominatim API](https://nominatim.org/)
